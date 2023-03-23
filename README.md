@@ -1,28 +1,19 @@
-### Hola, I'm [Aman Singh!!](https://aman9113.github.io/portfolio_website/)👋
-I am a tech enthusiast 💻 who loves programming & exploring more about Web Development, Cyber Security Enthusiastic!!
+### Hola, I'm [Akash Singh!!]👋
+I am a tech enthusiast 💻 who loves programming & exploring more about Web Development, Machine learning Enthusiastic!!
 <p align="left">
-<img src="https://komarev.com/ghpvc/?username=aman9113&label=Profile views&color=green&style=plastic" alt="aman9113" /> 
+<img src="https://komarev.com/ghpvc/?username=Akash9935&label=Profile views&color=green&style=plastic" alt="Akash9935" /> 
 </p>
 </a><img align="right" alt="GIF" src="https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966" width="400" height="355" />
 </a>
+<a href="https://www.linkedin.com/in/akash-singh-06942b1b7/">
+  <img align="left" alt="Akash Singh's Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://github.com/Akash9935">
+  <img align="left" alt="Akash9935's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
 
 
-<a href="https://twitter.com/Aaman0008">
-  <img align="left" alt="Aaman0008's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/aman-singh-484549202/">
-  <img align="left" alt="Aman Singh's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://github.com/aman9113/">
-  <img align="left" alt="aman9113's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
-<a href="https://www.instagram.com/__amansingh__0008/">
-  <img align="left" alt="Aman Singh's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<a href="https://www.facebook.com/amansingh.socialist/">
-  <img align="left" alt="Aman Singh's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-
-<a href="https://www.hackerrank.com/amansinghajay222">
+<a href="https://www.hackerrank.com/akku9696singh">
   <img align="left" alt="Aman Singh's hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
 </a>
 	
@@ -31,8 +22,7 @@ I am a tech enthusiast 💻 who loves programming & exploring more about Web Dev
 <br/>
 
 
-- ❤️ [Developer](https://github.com/aman9113) by passion. 
-- 🔭 I’m currently working on venture [RoomCares](https://www.facebook.com/roomcares/).
+- ❤️ [Developer](https://github.com/Akash9935) by passion. 
 - 🌱 I’m currently learning more about Cyber Security,JavaScript developer,ReactJS developer, Web Development Enthusiastic.
 - 👯 I’m looking to collaborate on [Stackoverflow](https://stackoverflow.com/users/18575240/aman-singh).
 - 🤔 I’m looking for help with Room Care's.

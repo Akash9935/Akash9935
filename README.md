@@ -14,7 +14,7 @@ I am a tech enthusiast 💻 who loves programming & exploring more about Web Dev
 
 
 <a href="https://www.hackerrank.com/akku9696singh">
-  <img align="left" alt="Aman Singh's hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
+  <img align="left" alt="Akash Singh's hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
 </a>
 	
 

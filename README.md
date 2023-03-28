@@ -26,9 +26,9 @@ I am a tech enthusiast 💻 who loves programming & exploring more about Web Dev
 - 😄 Pronouns: He/His            
            
  
-[![Linkedin: AkashSingh](https://img.shields.io/badge/-amansingh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/akash-singh-06942b1b7/)]
-[![GitHub Akash9935](https://img.shields.io/github/followers/aman9113?label=follow&style=social)](https://github.com/Akash9935)
-[![GitHub Akash9935](https://img.shields.io/github/followers/aman9113?label=follow&style=social)](https://github.com/Akash9935)
+[![Linkedin: AkashSingh](https://img.shields.io/badge/-akash-singh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/akash-singh-06942b1b7/)]
+[![GitHub Akash9935](https://img.shields.io/github/followers/Akash9935?label=follow&style=social)](https://github.com/Akash9935)
+[![GitHub Akash9935](https://img.shields.io/github/followers/Akash9935?label=follow&style=social)](https://github.com/Akash9935)
 **Languages and Tools:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
@@ -53,13 +53,12 @@ I am a tech enthusiast 💻 who loves programming & exploring more about Web Dev
 
 <b>⚙️ Things I use to get stuff done</b></summary>
   	<ul>
-  	    <li><b>OS:</b>Dell Monterey 12.0.1</li>
-	    <li><b>Laptop: </b> Dell Inspiron 15 3000</li>
+  	    
+	    <li><b>Laptop: </b> Lenovo S340</li>
   	    <li><b>Browser: </b>Chrome & Browser</li>
-	    <li><b>Code Editor:</b> VSCode , Xcode ❤
+	    <li><b>Code Editor:</b> VSCode , Intellij ❤
  </li>
-            <li><b>Cleverly using Dell Terminal with node.js, python Linux & git</li>
-		<li><b>Appetize.io for App Testing Purpose </li>
+            
 	</ul>	
 
 <div align="centre">

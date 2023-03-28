@@ -21,22 +21,15 @@ I am a tech enthusiast 💻 who loves programming & exploring more about Web Dev
 
 
 - ❤️ [Developer](https://github.com/Akash9935) by passion. 
-- 🌱 I’m currently learning more about Cyber Security,JavaScript developer,ReactJS developer, Web Development Enthusiastic.
-- 👯 I’m looking to collaborate on [Stackoverflow](https://stackoverflow.com/users/18575240/aman-singh).
-- 🤔 I’m looking for help with Room Care's.
-- 💬 Ask me about Development or any tech related stuff.
-- 📫 How to reach me: [Twitter - @Aaman0008](https://twitter.com/Aaman0008) , [LinkidIn- @AmanSingh](https://www.linkedin.com/in/aman-singh-484549202/) , [leetcode-@aman9113](https://leetcode.com/aman9113/)
-- 😄 Pronouns: He/His    
-- ⚡ Fun fact: I spend almost 6-8 hours listening podcasts & Music everyday.        
+- 🌱 I’m currently learning more about Machine learning,JavaScript, Java developer, Web Development, Python.
+- 📫 How to reach me: [LinkidIn- @Akash Singh](https://www.linkedin.com/in/akash-singh-06942b1b7/) , [leetcode-@Cryptic_akash](https://leetcode.com/Cryptic_akash/)
+- 😄 Pronouns: He/His            
            
  
-[![Twitter: AamanSingh](https://img.shields.io/twitter/follow/AamanSingh?style=social)](https://twitter.com/Aaman0008)
-[![Linkedin: AmanSingh](https://img.shields.io/badge/-amansingh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aman-singh-484549202//)]
+[![Linkedin: AkashSingh](https://img.shields.io/badge/-amansingh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/akash-singh-06942b1b7/)]
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/__amansingh__0008/) 
-[![GitHub aman9113](https://img.shields.io/github/followers/aman9113?label=follow&style=social)](https://github.com/aman9113)
-[![GitHub aman9113](https://img.shields.io/github/followers/aman9113?label=follow&style=social)](https://github.com/aman9113)
-[![website](https://img.shields.io/badge/Portfolio-aman.tech-2648ff?style=flat-square&logo=google-chrome)](
-https://aman9113.github.io/portfolio_website/) 
+[![GitHub Akash9935](https://img.shields.io/github/followers/aman9113?label=follow&style=social)](https://github.com/Akash9935)
+[![GitHub Akash9935](https://img.shields.io/github/followers/aman9113?label=follow&style=social)](https://github.com/Akash9935)
 **Languages and Tools:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>

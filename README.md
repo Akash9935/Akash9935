@@ -42,7 +42,7 @@ I am a tech enthusiast 💻 who loves programming & exploring more about Web Dev
 <img height="114em"src="https://github-readme-stats.vercel.app/api?username=Akash9935&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
 
 <img height="114em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Akash9935&layout=compact&langs_count=6&theme=algolia"/>
-<img height="114em" src="https://github-readme-streak-stats.herokuapp.com/?user=aman9113&show_icons=true&locale=en&layout=compact&theme=algolia&line_height=0"/>
+<img height="114em" src="https://github-readme-streak-stats.herokuapp.com/?user=Akash9935&show_icons=true&locale=en&layout=compact&theme=algolia&line_height=0"/>
 </a>
 
 ## 💳 Github Profile Summary Card

@@ -47,7 +47,7 @@ I am a tech enthusiast 💻 who loves programming & exploring more about Web Dev
 
 ## 💳 Github Profile Summary Card
 <p align="fitscreen">
-  <img height= "237 em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aman9113&theme=vue"/>
+  <img height= "237 em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Akash9935&theme=vue"/>
 </p>
 
 
